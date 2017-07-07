@@ -1,0 +1,13 @@
+
+source 'git@git.coding.net:Zax_Ismile/repoTest.git'
+
+platform :ios, ‘8.0’
+
+target 'ModuleTestDemo' do
+
+  # use_frameworks!
+
+
+    pod 'BaseTool'
+
+end
